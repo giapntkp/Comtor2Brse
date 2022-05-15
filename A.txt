@@ -2,4 +2,5 @@ GiapNT - Dong dau tien file A
 GiapNT - Dong so 2 file A
 GiapNT - Dong so 3 file A
 GiapNT - Dong so 4 file A
+Ngoc - Dong so 8 file A
 Linh - Dong so 5 file A
